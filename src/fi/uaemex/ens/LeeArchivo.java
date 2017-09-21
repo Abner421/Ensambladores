@@ -21,12 +21,6 @@ import java.util.logging.Logger;
  * Proyecto Ensambladores 2017-B 
  * v 1.0
  *
- * datasegment, no puede contener más de 10 caracetres
- * 
- * !cambiar la parte del analizador para
- * !leer palabra por palabra y no letra por letra
- * 
- * !
  * 
  * @author Alfredo Abner González Mercado
  */
